@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Программист, математик, немного физик и азартный игрок.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+[Мои навыки](https://github.com/FishKOH/My-Learning-Tracker)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nestersv8@gmail.com](mailto:nestersv8@gmail.com)  
+https://t.me/serg_nester
